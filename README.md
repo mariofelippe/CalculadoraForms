@@ -1,8 +1,8 @@
 ## CalculadoraForms
 Calculadora Simples utilizando Windows Forms.
 
-É possível realizar opreações de adição, subtração, multiplicação e divição.
+Ã‰ possÃ­vel realizar opreaÃ§Ãµes de adiÃ§Ã£o, subtraÃ§Ã£o, multiplicaÃ§Ã£o e diviÃ§Ã£o.
 
-### Inteface
+### Interface
 
 ![Calculadora](img/calculadora.png)
